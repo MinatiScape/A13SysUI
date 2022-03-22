@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="battery_margin_bottom">1px</dimen>
+    <dimen name="pip_menu_arrow_elevation">5dp</dimen>
+    <dimen name="pip_menu_arrow_size">24dp</dimen>
+    <dimen name="pip_menu_border_radius">4dp</dimen>
+    <dimen name="pip_menu_border_width">4dp</dimen>
+    <dimen name="pip_menu_button_margin">4dp</dimen>
+    <dimen name="pip_menu_button_radius">20dp</dimen>
+    <dimen name="pip_menu_button_size">40dp</dimen>
+    <dimen name="pip_menu_button_wrapper_margin">26dp</dimen>
+    <dimen name="pip_menu_icon_size">20dp</dimen>
+    <dimen name="pip_menu_outer_space">24dp</dimen>
+    <dimen name="pip_menu_outer_space_frame">20dp</dimen>
+</resources>

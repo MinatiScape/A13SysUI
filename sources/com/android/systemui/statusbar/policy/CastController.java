@@ -1,0 +1,27 @@
+package com.android.systemui.statusbar.policy;
+
+import com.android.systemui.Dumpable;
+import java.util.ArrayList;
+/* loaded from: classes.dex */
+public interface CastController extends CallbackController<Callback>, Dumpable {
+
+    /* loaded from: classes.dex */
+    public interface Callback {
+        void onCastDevicesChanged();
+    }
+
+    /* loaded from: classes.dex */
+    public static final class CastDevice {
+        public String name;
+        public int state = 0;
+        public Object tag;
+    }
+
+    ArrayList getCastDevices();
+
+    void setCurrentUserId(int i);
+
+    void setDiscovering();
+
+    void stopCasting(CastDevice castDevice);
+}

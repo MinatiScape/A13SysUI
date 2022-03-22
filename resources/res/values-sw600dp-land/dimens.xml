@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="ambient_indication_margin_bottom">115dp</dimen>
+    <dimen name="controls_task_view_right_margin">8dp</dimen>
+    <dimen name="controls_task_view_width_percentage">0.45</dimen>
+    <dimen name="keyguard_clock_top_margin">8dp</dimen>
+    <dimen name="keyguard_indication_margin_bottom">25dp</dimen>
+    <dimen name="lock_icon_margin_bottom">60dp</dimen>
+    <dimen name="lockscreen_shade_scrim_transition_distance">200dp</dimen>
+    <dimen name="notification_panel_margin_bottom">48dp</dimen>
+    <dimen name="qs_header_system_icons_area_height">0dp</dimen>
+    <dimen name="qs_panel_padding_top">@dimen/qqs_layout_margin_top</dimen>
+    <dimen name="split_shade_notifications_scrim_margin_bottom">16dp</dimen>
+    <dimen name="sud_decor_padding_top">128dp</dimen>
+    <dimen name="sud_glif_button_margin_end">44dp</dimen>
+    <dimen name="sud_glif_button_margin_start">32dp</dimen>
+    <dimen name="sud_glif_content_padding_top">88dp</dimen>
+    <dimen name="sud_glif_footer_padding_end">44dp</dimen>
+    <dimen name="sud_glif_footer_padding_start">32dp</dimen>
+    <dimen name="sud_glif_margin_end">48dp</dimen>
+    <dimen name="sud_glif_margin_start">48dp</dimen>
+    <dimen name="sud_items_glif_icon_divider_inset">96dp</dimen>
+    <dimen name="sud_items_glif_text_divider_inset">48dp</dimen>
+    <dimen name="widget_big_font_size">88dp</dimen>
+</resources>
